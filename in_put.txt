@@ -1,0 +1,13 @@
+  0                            (USER'S CONDITIONS: user input geometry)
+85 180 85 0 1 7
+  3                            (USER'S atmosphere MODEL: midlatitude winter)
+  1                            (AEROSOLS MODEL: continental model)
+  0                            (indicate NEXT VALUE IS AERO. OPT. THICK @550)
+2.5
+  -0.033                           (TARGET AT sea level -1.)
+  -1000                        (Satellite case)
+  63                          (enter wlinf, wlsup, filter func. uniform)
+  0                            (GROUND TYPE: homogeneous)
+  0                            (no directional effect, i.e.,Lambertian)
+  3
+-2
